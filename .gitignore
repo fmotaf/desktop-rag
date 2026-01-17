@@ -1,1 +1,10 @@
 node_modules/
+bin
+.tmp
+.yarn
+.yarnrc
+resources/
+*.log
+index.html
+yarn.lock
+*.yml
